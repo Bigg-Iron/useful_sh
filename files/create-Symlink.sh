@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Creating a symlink
 # ln -s /path/to/original /path/to/symlink
 
@@ -11,3 +13,4 @@
 #       └───────┬───────┘
 #               └── the path to the original file/folder
 #                   can use . or ~ or other relative paths
+
