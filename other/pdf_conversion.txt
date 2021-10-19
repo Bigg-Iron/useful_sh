@@ -1,0 +1,8 @@
+# PDF Conversions
+
+# pdf -> PDF/A
+ocrmypdf <pdf> <output_pdf>
+
+# pdf to text
+pdftotext <pdf> 
+
